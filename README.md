@@ -41,7 +41,7 @@ This repository contains my work from the **Machine Learning for Cyber Security 
 │   │-- dataset.csv  
 
 ## Technologies Used
-1. ### Python (NumPy, Pandas, Scikit-Learn, TensorFlow)
-2. ### Jupyter Notebooks
-3. ### Machine Learning & AI Techniques
-4. ### Cybersecurity Use Cases
+**Python (NumPy, Pandas, Scikit-Learn, TensorFlow)**
+**Jupyter Notebooks**
+**Machine Learning & AI Techniques**
+**Cybersecurity Use Cases**
