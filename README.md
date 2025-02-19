@@ -3,7 +3,6 @@
 
 ![Cyber Security & AI](https://img.shields.io/badge/CyberSecurity-AI-blue)  
 ![ML Bootcamp](https://img.shields.io/badge/Machine%20Learning-Bootcamp-orange)  
-![Completion](https://img.shields.io/badge/Completed-✅-green)  
 
 ## 📌 Overview  
 This repository contains my work from the **Machine Learning for Cyber Security Bootcamp**, conducted by **C-DAC Hyderabad** under the **FutureSkills Prime** initiative by the **Ministry of Electronics and IT, Govt. of India**.  
@@ -42,7 +41,7 @@ This repository contains my work from the **Machine Learning for Cyber Security 
 │   │-- dataset.csv  
 
 ## Technologies Used
-Python (NumPy, Pandas, Scikit-Learn, TensorFlow)
-Jupyter Notebooks
-Machine Learning & AI Techniques
-Cybersecurity Use Cases
+1. ### Python (NumPy, Pandas, Scikit-Learn, TensorFlow)
+2. ### Jupyter Notebooks
+3. ### Machine Learning & AI Techniques
+4. ### Cybersecurity Use Cases
